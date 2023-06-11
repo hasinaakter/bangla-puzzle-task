@@ -6,35 +6,11 @@
     text-align: center;
 }
 
-/* 
-.enter-email{
-    height: 60px;
-    box-shadow: 4px 4px 3px 3px rgb(197, 222, 231);
-    text-align: center;
-
-}
-.enter-email input{
-    height: 50px;
-    width: 20%;
+.privacy-term{
+    height: 200px;
+    width: 100%;
     padding: 20px;
     margin: 10px;
-    height: 35px;
+    box-shadow: 2px 2px 3px 3px rgb(243, 211, 211);
     border-radius: 5px;
-    border: none;
-}
-
-.enter-email button{
-    height: 50px;
-    width: 20%;
-    padding: 20px;
-    margin: 10px;
-    height: 35px;
-    border-radius: 5px;
-    border: none;
- background-color: red;
-} */
-
-.footer{
-	background:#0F0D32;
-	padding: 2rem 3.5rem;
 }
